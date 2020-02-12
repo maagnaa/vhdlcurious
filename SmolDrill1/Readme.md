@@ -1,5 +1,4 @@
 SmolDrill1 is live! Dette er en oppfriskning i basic VHDL.    
-###### (Del 3 er ikke så basic egentlig men *jævlig nyttig* og allright å ta i bruk).
 
 # Instruksjoner
 ## Part 1: logic.vhd
@@ -32,6 +31,8 @@ Last ned hele vhdlcurious repo og kopier den lokalt hos deg. Det er viktig at du
   
   ## Part 3: Legg til assertions i logic_tb.vhd
   
+  ###### (Del 3 er ikke så basic egentlig men *jævlig nyttig* og allright å ta i bruk).
+
   Det er litt kjedelig - eller ihvertfall  **uoversiktlig** -  dersom vi alltid trenger å undersøke alle waveforms manuelt og rassonere oss frem til om disse stemmer eller ikke med ønsket resultat.
   Det er mye greiere om vi kan bygge noe form for sjekk inn i testbenk, slik at vi automatisk får beskjed når noe ikke stemmer.
   
