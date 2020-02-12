@@ -1,4 +1,5 @@
-SmolDrill1 is live! Dette er en oppfriskning i basic VHDL. (Del 3 er ikke så basic egentlig men *jævlig nyttig* og allright å ta i bruk)
+SmolDrill1 is live! Dette er en oppfriskning i basic VHDL.    
+###### (Del 3 er ikke så basic egentlig men *jævlig nyttig* og allright å ta i bruk).
 
 # Instruksjoner
 ## Part 1: logic.vhd
