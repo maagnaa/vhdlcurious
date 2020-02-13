@@ -1,7 +1,7 @@
 SmolDrill1 is live! Dette er en oppfriskning i basic VHDL.    
 
 # Instruksjoner
-## Part 1: logic.vhd
+## Part 1: Modde logic.vhd
 
 - Gå inn på:    `src/logic.vhd ` 
 
