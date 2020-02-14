@@ -1,4 +1,4 @@
-SmolDrill1 is live! Dette er en oppfriskning i basic VHDL.    
+1_smoldrill1 is live! Dette er en oppfriskning i basic VHDL.  
 
 # Instruksjoner
 ## Part 1: Modde logic.vhd
@@ -127,7 +127,3 @@ Last ned hele vhdlcurious repo og kopier den lokalt hos deg. Det er viktig at du
       - **Vil ikke at du skal bli stresset! Hvis du blir stresset, TA PAUSE!!!**   
          - Si ifra om at du ble stuck, og i hvilken oppgave, så reiser du deg opp og går en tur elns. 
          - Da bryter jeg bare oppggaven opp i mindre biter, evt. gir deg et kommentert løsningsforslag.
-      
-
-     
-

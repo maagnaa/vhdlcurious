@@ -1,5 +1,5 @@
 library IEEE;
-use IEEE.Std_logic_1164.all;
+use IEEE.std_logic_1164.all;
 
 entity logic_tb is
 end entity logic_tb;

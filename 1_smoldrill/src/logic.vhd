@@ -9,7 +9,7 @@
 -- a. Hvilke biblioteker må alltid legges ved i context clausen og hvorfor?
 -- b. Hvilke andre VHDL biblioteker kan være nyttige? I hvilke sammenheng?
 library IEEE;
-use IEEE.Std_logic_1164.all;
+use IEEE.std_logic_1164.all;
 ----------------------------------------------------
 -- Frisk Opp: Entity Declaration
 ----------------------------------------------------
