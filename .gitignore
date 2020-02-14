@@ -16,9 +16,14 @@ _*
 # *.txt
 *.rpt
 
+# ignore Modelsim generated files
+*.wlf
+*.mpf
+*.mti
+sim/start_time.txt
+
 # Ignore compiled libraries
-sim/*
-!sim/README.md
+sim/myLib
 internal_script/transcript
 internal_script/_Alert.txt
 internal_script/_Log.txt
