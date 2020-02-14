@@ -1,6 +1,6 @@
 puts {
-  ModelSimSE general compile script version 1.0
-  Copyright (c) Doulos June 2004, SD}
+  ModelSimSE general compile script
+  }
 puts "  $this_script_name"
 proc r  {} "uplevel #0 source $this_script_name"
 proc rr {} {global last_compile_time

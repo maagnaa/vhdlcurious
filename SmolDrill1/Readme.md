@@ -1,7 +1,7 @@
 SmolDrill1 is live! Dette er en oppfriskning i basic VHDL.    
 
 # Instruksjoner
-## Part 1: logic.vhd
+## Part 1: Modde logic.vhd
 
 - Gå inn på:    `src/logic.vhd ` 
 
@@ -11,6 +11,8 @@ SmolDrill1 is live! Dette er en oppfriskning i basic VHDL.
 
 ## Part 2: Simulering av logic.vhd
 Last ned hele vhdlcurious repo og kopier den lokalt hos deg. Det er viktig at du beholder mappestrukturen. :)
+
+*** MEN BRUK DEN VERSJONEN AV `logic.vhd` SOM DU MODDET!
 
 1. Spark ModelSim i gang.
 2. Trykk på *"Jumpstart".*
