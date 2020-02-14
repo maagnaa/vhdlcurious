@@ -17,7 +17,7 @@ _*
 *.rpt
 
 # Ignore compiled libraries
-sim/
+sim/*
 !sim/README.md
 internal_script/transcript
 internal_script/_Alert.txt
