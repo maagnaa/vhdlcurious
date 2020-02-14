@@ -18,6 +18,7 @@ _*
 
 # Ignore compiled libraries
 sim/
+!sim/README.md
 internal_script/transcript
 internal_script/_Alert.txt
 internal_script/_Log.txt
