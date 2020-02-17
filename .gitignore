@@ -36,3 +36,4 @@ script/transcript
 .library_mapping.xml
 .project
 .settings/*
+1_smoldrill/sim/start_time.txt
